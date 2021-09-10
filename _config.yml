@@ -14,6 +14,7 @@ linkedin_username: "linkedinuser"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
+theme: minima
 remote_theme: dm116/dm116.github.io
 
 #########################################################################################

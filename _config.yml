@@ -40,5 +40,5 @@ defaults:
   - scope:
       path: ""
       type: post
-    values:
+    values: 
       tags: Other

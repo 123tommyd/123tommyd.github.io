@@ -14,6 +14,7 @@ linkedin_username: "linkedinuser"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
+remote_theme: dm116/dm116.github.io
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########

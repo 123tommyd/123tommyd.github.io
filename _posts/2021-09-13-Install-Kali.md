@@ -2,6 +2,8 @@
 layout: post
 title: Install Kali
 subtitle: Installation
+date: 2020-04-12
+author: TD
 cover-img: /assets/img/walle_rubiks.jpg
 thumbnail-img: /assets/img/walle_a.png
 share-img: /assets/img/walle_rubiks.jpg

@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Some Subtitle
-cover-img: /assets/img/Wall_e1
+cover-img: /assets/img/Wall_e1.jpg
 ---
 
 My name is 123tommyd.

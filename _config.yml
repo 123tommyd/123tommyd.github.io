@@ -14,7 +14,7 @@ author: 123tommyddddd1
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  PROJECTS: "Projects"
+  PROJECTS: "index.html"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"

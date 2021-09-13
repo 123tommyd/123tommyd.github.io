@@ -3,7 +3,7 @@ layout: post
 title: Install Kali
 subtitle: Installation
 cover-img: /assets/img/walle_rubiks.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/walle_a.png
 share-img: /assets/img/walle_rubiks.jpg
 tags: [kali, Linux]
 ---

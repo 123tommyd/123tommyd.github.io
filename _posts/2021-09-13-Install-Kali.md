@@ -2,9 +2,9 @@
 layout: post
 title: Install Kali
 subtitle: Installation
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/walle_rubiks.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/walle_rubiks.jpg
 tags: [kali, Linux]
 ---
 You can use the `dpkg` command to see a list of all installed packages on your computer.
